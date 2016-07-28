@@ -5,7 +5,7 @@ date: "2016-07-28 09:03"
 ---
 
 I'm currently spending my last two days in my old job.
-Throughout my career so far I have worked with various large, custom enterprise applications. However, the role I am starting in next week, is that of a full-time developer.
+Throughout my career so far I have worked with various large, custom enterprise applications, running Application Support and small and larger projects. However, the role I am starting in next week, is that of a dedicated full-time developer. So that's... new.
 
 Throughout the years I have gathered development experience here and there, some Java, lots of SQL, batch and Python scripting, and more recently this brave new world that is the Node.js ecosystem, which, incidentally, I am expected to help propagate within the team I am about to join.
 
