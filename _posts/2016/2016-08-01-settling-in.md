@@ -14,7 +14,7 @@ Getting to know my new colleagues, all accomplished devs, most of them heavy on 
 
 "*Oh, so you're doing front-end then! Javascript and stuff.*"
 
-"*Well, no really more the back-end side of things, that's kinda what Node is for.*"
+"*Well no, really more the back-end side of things, that's kinda what Node is for.*"
 
 And so, I keep having to clarify that I was hired for my enthusiasm for Node and its ecosystem, and also microservices which will likely become a big topic in an upcoming project my new company is planning. Or so I thought.
 
