@@ -1,6 +1,9 @@
 ---
-published: true
+layout: "post"
+title: "Hello-React"
+date: "2016-09-22 22:50"
 ---
+
 ## Goodbye Angular
 
 So it looks like I joined my new company just in time: Our little Apps team is in this envyable position where there are a number of vague projects on the horizon, but no deadlines and no actual requirements exist yet. So we decided to take a week or two off from sprints and instead evaluate what Front-End frameworks we actually want to be developing those future projects in. Without any pressing projects or a large amount of pre-existing legacy code base, now is the perfect time to be shopping around.
