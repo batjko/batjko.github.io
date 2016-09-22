@@ -161,6 +161,19 @@ kramdown:
   enable_coderay: false
 
 
+defaults:
+  # _posts
+  - scope:
+    path: ""
+    type: posts
+  values:
+    layout: single
+    author_profile: true
+    read_time: true
+    comments: true
+    share: true
+      related: true
+  
 # Sass/SCSS
 sass:
   sass_dir: _sass
