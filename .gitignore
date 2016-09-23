@@ -1,10 +1,29 @@
-*.sublime-project
-*.sublime-workspace
+# OS X
 .DS_Store
+
+# Jekyll build
+/_site/
 .jekyll-metadata
-.sass-cache
-_asset_bundler_cache
-_site
-codekit-config.json
-node_modules
-npm-debug.log*
+#Gemfile.lock
+
+# webstorm
+.idea/
+
+# others
+*.swp
+
+# site build
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+vendor
