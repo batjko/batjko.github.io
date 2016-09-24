@@ -1,7 +1,10 @@
 ---
-layout: "post"
+layout: post
+cover: 'assets/images/cover5.jpg'
 title: "Hello-React"
 date: "2016-09-22 22:50"
+tags: react javascript angular
+navigation: True
 ---
 
 ## Goodbye Angular
