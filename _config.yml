@@ -1,6 +1,6 @@
 # Site settings
 title: batjko
-description: 'Some stuff'
+description: 'Some shit \'n stuff'
 url: 'http://batjko.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -36,4 +36,4 @@ kramdown:
   hard_wrap: false
 
 gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png', 'styletest.html']
