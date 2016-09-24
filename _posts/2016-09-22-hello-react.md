@@ -7,9 +7,9 @@ tags: react javascript angular
 navigation: True
 ---
 
-### Goodbye Angular
-
 So it looks like I joined my new company just in time: Our little Apps team is in this envyable position where there are a number of vague projects on the horizon, but no deadlines and no actual requirements exist yet. So we decided to take a week or two off from sprints and instead evaluate what Front-End frameworks we actually want to be developing those future projects in. Without any pressing projects or a large amount of pre-existing legacy code base, now is the perfect time to be shopping around.
+
+### Goodbye Angular
 
 There has been some Angular 1 knowledge circulating in the team, with one or two minor apps having been done that way (I worked on one for my first month at this company). But I am happy to note that there was no debate about my suggestion to re-evaluate now. Both my team mates and our boss are fully on board. Certainly not the kind of response I was used to in my old corporate job.
 "So", I thought, "...let's play."
